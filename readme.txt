@@ -16,7 +16,7 @@ Synoptic Visual Animator: create amazing animations is a wordpress plugin which 
 Synoptic Visual Animator: create amazing animations is a wordpress plugin which helps you to create amazing animations for your website, admin/user dashboard, blog, forms, woocommerce pages, events calendars, galleries, bbPress pages and others in just few seconds and transform a static website in a dinamic website
 
 
-Attention ! This is an extension for Synoptic Visual Designer: best website design tool. You can not use it without Synoptic Visual Designer: best website design tool 1.1 or later.
+Attention ! This is an extension for [Synoptic Visual Designer: best website design tool](https://wordpress.org/plugins/synoptic-web-designer-best-design-tool/). You can not use it without [Synoptic Visual Designer: best website design tool](https://wordpress.org/plugins/synoptic-web-designer-best-design-tool/) 1.1 or later.
 
 If you want to test and see how the animations created with our plugin all you have to do is to [click here](http://synoptic-website-animator.wdh.im/wp-login.php).
 
