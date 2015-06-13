@@ -1,0 +1,24 @@
+/* -------------------------------------------------------------------
+ * Project Name: Synoptic Visual Animator: create amazing animations
+ * Project Version: 1.0                         
+ * Project URL: http://www.wdh.im/projects/synoptic-visual-animator-create-amazing-animations/
+ * Author: WDH - Web Developers House
+ * Author URL: http://www.wdh.im/
+ * File: css/wdh.svwe.animator.css
+ * File Description: CSS File
+ * File Version: 1.0
+ * Last Update File : 30.06.2015
+ * ------------------------------------------------------------------- 
+ */
+
+/* ICON */
+.wdh-panel .wdh-panel-middle .wdh-types li.icon-animator-settings{
+    background: #313131 url("../images/sprite.png");
+    background-position: -48px 0px;
+}
+
+.wdh-panel .wdh-panel-middle .wdh-types li.icon-animator-settings:hover,
+.wdh-panel .wdh-panel-middle .wdh-types li.icon-animator-settings.element-type-selected{
+    background-position: -9px 0px;
+    background-color: #fccf1b !important;
+}
